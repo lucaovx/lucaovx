@@ -1,5 +1,5 @@
 ### Howdy, I'm Lucas Paiva!! 🤖
-<img src="https://uploaddeimagens.com.br/imagens/m7MOMu4" alt="Banner-LuTech">
+<img src="https://i.ibb.co/k0Brp84/banner-Lu-Tech.jpg" alt="Banner-LuTech">
 
 
 
