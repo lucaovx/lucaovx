@@ -22,7 +22,7 @@
  <!--<p align="left">🤿 Faço parte dos alunos da <a href="https://www.alura.com.br/">Alura</a>;</p>-->
  <p align="left">📚 Tenho ampliado meus conhecimentos com cursos online (Alura, Estudonauta e outros ai);</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas e tecnologia no <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> e no <a href="https://twitter.com/LuTechn">Twitter</a>. Segue lá e vem trocar uma ideia!</p>
- <p align="left">🎮 adoro games, sou vidrado na cultura Geek e estou apaixonado pela programação.</p>
+ <p align="left">🎮 Adoro games, sou vidrado na cultura Geek e estou apaixonado pela programação.</p>
 </div>
 <br>
 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> ou pelo <a href="https://twitter.com/LuTechn">Twitter</a> (eu demoro para responder, mas esquenta não que eu respondo.😁) Tenham paciência estou começando agora, então não tenho tantos projetos, mas os que estiverem nos repositorios, podem ficar a vontade para ver-los (Aceito dicas e sugestões).
