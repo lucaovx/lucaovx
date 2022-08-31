@@ -8,7 +8,7 @@
 
 
 <div dsplay="inline-block">
- <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://i.ibb.co/FV747kB/octocat-1661920177928.png"></a>
+ <a href="https://www.linkedin.com/in/lucaspaivaso/"><img align="left" width="150" height="150" src="https://i.ibb.co/FV747kB/octocat-1661920177928.png"></a>
  
  <h1 align="left"> Find me elsewhere 🌎</h1>
  <a href="https://www.instagram.com/LuTechn/">
