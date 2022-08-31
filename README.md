@@ -3,8 +3,12 @@
 <img src="https://i.ibb.co/k0Brp84/banner-Lu-Tech.jpg" alt="Banner-LuTech">
 
 
+### Abount Me
 
+<!-- Colocar um texto explicando sobre mim mesmo, e depois traduzir tudo para inglês -->
 
+<br>
+<br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <!--<img width="300px" align="right" src="">-->
