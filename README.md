@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/lucaspaivaso/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-  Born in Aracaju, Brazil
+
 </div>
-
-
+<br>
+Born in Aracaju, Brazil
