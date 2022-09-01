@@ -5,9 +5,16 @@
 
 ## Abount Me
 
-<!-- Colocar um texto explicando sobre mim mesmo, e depois traduzir tudo para inglês -->
+Hello, my name is Lucas Paiva. I'm 19 years old and new at the technology industry, but I have experience on working on computers since I was 9. I've always had the curiosity and the passion to understand it's mechanisms and inner workings. 
+  It's with great happiness that I'm currently studying the I.T. area that I enjoy so much on the course of System Analysis and Development on Uninassau, a great university with great teachers, and it's being a very gratifying.
+  I'm excited to have my first job officially on the area that i'm learning, to have new experiences and to add more to my personal and professional development.
 
-<br>
+ I'm a person who loves technology, and that enjoys learning new things or improving a knowledge that I already have. I've had great experiences reading books recommended by my professors, I'm up to date on the articles and I'm also having english classes provided by CNA NET, which I have nothing to complain about. I look forward to bettering even more my english as means to have acess to more informations in english and to go on exchange programs on the future.
+
+  Well, that is me, Lucas Paiva, and I hope that you've enjoyed reading about me so far. If you have any questions, want to talk to me, make me a proposition or even to give me suggestions, feel free to contact me via Linkedin by chat. Also give a look on my portifolio, soon I'll be creating a site from the ground up, but for now I'll just have a simpler one with basic directions.
+ That's all for now.
+
+See you Later!! ♥
 <br>
 
 ##
