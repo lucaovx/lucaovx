@@ -3,12 +3,14 @@
 <img src="https://i.ibb.co/k0Brp84/banner-Lu-Tech.jpg" alt="Banner-LuTech">
 
 
-### Abount Me
+## Abount Me
 
 <!-- Colocar um texto explicando sobre mim mesmo, e depois traduzir tudo para inglês -->
 
 <br>
 <br>
+
+##
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <!--<img width="300px" align="right" src="">-->
@@ -24,7 +26,7 @@
 
 <div display="inline-block">
  <!--<p align="left">🤿 Faço parte dos alunos da <a href="https://www.alura.com.br/">Alura</a>;</p>-->
- <p align="left">📚 Tenho ampliado meus conhecimentos com cursos online (Alura, Estudonauta e outros ai);</p>
+ <p align="left">📚 Tenho ampliado meus conhecimentos com cursos online (Alura, Estudonauta e outros ai).</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas e tecnologia no <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> e no <a href="https://twitter.com/LuTechn">Twitter</a>. Segue lá e vem trocar uma ideia!</p>
  <p align="left">🎮 Adoro games, sou vidrado na cultura Geek e estou apaixonado pela programação.</p>
 </div>
