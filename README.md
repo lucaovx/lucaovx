@@ -32,13 +32,13 @@ See you Later!! ♥
 <br>
 
 <div display="inline-block">
- <!--<p align="left">🤿 Faço parte dos alunos da <a href="https://www.alura.com.br/">Alura</a>;</p>-->
- <p align="left">📚 Tenho ampliado meus conhecimentos com cursos online (Alura, Estudonauta e outros ai).</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas e tecnologia no <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> e no <a href="https://twitter.com/LuTechn">Twitter</a>. Segue lá e vem trocar uma ideia!</p>
- <p align="left">🎮 Adoro games, sou vidrado na cultura Geek e estou apaixonado pela programação.</p>
+ <!--<p align="left">🤿 I am part of the students at <a href="https://www.alura.com.br/">Alura</a>;</p>-->
+ <p align="left">📚 I have been expanding my knowledge with online courses (Alura, Estudonauta, ect).</p>
+ <p align="left">📷 I share my experiences with career transition, tips and technology at <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> and in the <a href="https://twitter.com/LuTechn">Twitter</a>. Follow us there and come and exchange an idea!</p>
+ <p align="left">🎮 I love games, I'm hooked on Geek culture, and I'm in love with programming.</p>
 </div>
 <br>
-📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> ou pelo <a href="https://twitter.com/LuTechn">Twitter</a> (eu demoro para responder, mas esquenta não que eu respondo.😁) Tenham paciência estou começando agora, então não tenho tantos projetos, mas os que estiverem nos repositorios, podem ficar a vontade para ver-los (Aceito dicas e sugestões).
+📫 You can reach me at <a href="https://www.linkedin.com/in/lucaspaivaso/">Linkedln</a> or by <a href="https://twitter.com/LuTechn">Twitter</a> (I take a long time to answer, but don't worry I'll answer.😁) Be patient, I am just starting out, so I don't have that many projects, but those that are in the repositories, feel free to check them out (I welcome tips and suggestions).
 <br>
 <br>
 <div dsplay="inline-block">
