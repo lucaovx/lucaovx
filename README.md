@@ -45,9 +45,9 @@ See you Later!! ♥
  <a href="https://beacons.ai/lutechn"><img align="left" width="150" height="150" src="https://i.ibb.co/FV747kB/octocat-1661920177928.png"></a>
  
  <h1 align="left"> Find me elsewhere 🌎</h1>
- <a href="https://www.instagram.com/LuTechn/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="[https://twitter.com/jeniblo_dev](https://twitter.com/LuTechn)" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/lucaspaivaso/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+ <a href="https://www.instagram.com/LuTechn/" target="_blank"><img align="left" alt="Instagram" width="22px" src="" />
+<a href="https://twitter.com/LuTechn" target="_blank"><img align="left" alt="Twitter" width="22px" src="" />
+<a href="https://www.linkedin.com/in/lucaspaivaso/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="" /></a>
 
 </div>
 <br>
